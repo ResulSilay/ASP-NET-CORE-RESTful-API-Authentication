@@ -1,0 +1,15 @@
+C:\Users\Dell-07\Documents\Dosyalarim\Projects\Examples\TierApp\TierApp.Business\obj\Debug\netstandard2.0\TierApp.Business.csprojAssemblyReference.cache
+C:\Users\Dell-07\Documents\Dosyalarim\Projects\Examples\TierApp\TierApp.Business\obj\Debug\netstandard2.0\TierApp.Business.AssemblyInfoInputs.cache
+C:\Users\Dell-07\Documents\Dosyalarim\Projects\Examples\TierApp\TierApp.Business\obj\Debug\netstandard2.0\TierApp.Business.AssemblyInfo.cs
+C:\Users\Dell-07\Documents\Dosyalarim\Projects\Examples\TierApp\TierApp.Business\bin\Debug\netstandard2.0\TierApp.Business.deps.json
+C:\Users\Dell-07\Documents\Dosyalarim\Projects\Examples\TierApp\TierApp.Business\bin\Debug\netstandard2.0\TierApp.Business.dll
+C:\Users\Dell-07\Documents\Dosyalarim\Projects\Examples\TierApp\TierApp.Business\bin\Debug\netstandard2.0\TierApp.Business.pdb
+C:\Users\Dell-07\Documents\Dosyalarim\Projects\Examples\TierApp\TierApp.Business\bin\Debug\netstandard2.0\TierApp.Core.dll
+C:\Users\Dell-07\Documents\Dosyalarim\Projects\Examples\TierApp\TierApp.Business\bin\Debug\netstandard2.0\TierApp.Data.dll
+C:\Users\Dell-07\Documents\Dosyalarim\Projects\Examples\TierApp\TierApp.Business\bin\Debug\netstandard2.0\TierApp.Entity.dll
+C:\Users\Dell-07\Documents\Dosyalarim\Projects\Examples\TierApp\TierApp.Business\bin\Debug\netstandard2.0\TierApp.Data.pdb
+C:\Users\Dell-07\Documents\Dosyalarim\Projects\Examples\TierApp\TierApp.Business\bin\Debug\netstandard2.0\TierApp.Core.pdb
+C:\Users\Dell-07\Documents\Dosyalarim\Projects\Examples\TierApp\TierApp.Business\bin\Debug\netstandard2.0\TierApp.Entity.pdb
+C:\Users\Dell-07\Documents\Dosyalarim\Projects\Examples\TierApp\TierApp.Business\obj\Debug\netstandard2.0\TierApp.Business.csproj.CopyComplete
+C:\Users\Dell-07\Documents\Dosyalarim\Projects\Examples\TierApp\TierApp.Business\obj\Debug\netstandard2.0\TierApp.Business.dll
+C:\Users\Dell-07\Documents\Dosyalarim\Projects\Examples\TierApp\TierApp.Business\obj\Debug\netstandard2.0\TierApp.Business.pdb

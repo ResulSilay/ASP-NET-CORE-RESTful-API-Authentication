@@ -1,0 +1,8 @@
+C:\Users\Dell-07\Documents\Dosyalarim\Projects\Examples\TierApp\TierApp.Core\obj\Debug\netstandard2.0\TierApp.Core.csprojAssemblyReference.cache
+C:\Users\Dell-07\Documents\Dosyalarim\Projects\Examples\TierApp\TierApp.Core\obj\Debug\netstandard2.0\TierApp.Core.AssemblyInfoInputs.cache
+C:\Users\Dell-07\Documents\Dosyalarim\Projects\Examples\TierApp\TierApp.Core\obj\Debug\netstandard2.0\TierApp.Core.AssemblyInfo.cs
+C:\Users\Dell-07\Documents\Dosyalarim\Projects\Examples\TierApp\TierApp.Core\bin\Debug\netstandard2.0\TierApp.Core.deps.json
+C:\Users\Dell-07\Documents\Dosyalarim\Projects\Examples\TierApp\TierApp.Core\bin\Debug\netstandard2.0\TierApp.Core.dll
+C:\Users\Dell-07\Documents\Dosyalarim\Projects\Examples\TierApp\TierApp.Core\bin\Debug\netstandard2.0\TierApp.Core.pdb
+C:\Users\Dell-07\Documents\Dosyalarim\Projects\Examples\TierApp\TierApp.Core\obj\Debug\netstandard2.0\TierApp.Core.dll
+C:\Users\Dell-07\Documents\Dosyalarim\Projects\Examples\TierApp\TierApp.Core\obj\Debug\netstandard2.0\TierApp.Core.pdb

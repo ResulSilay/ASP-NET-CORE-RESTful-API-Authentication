@@ -1,0 +1,13 @@
+C:\Users\Dell-07\Documents\Dosyalarim\Projects\Examples\TierApp\TierApp.Data\obj\Debug\netstandard2.0\TierApp.Data.csprojAssemblyReference.cache
+C:\Users\Dell-07\Documents\Dosyalarim\Projects\Examples\TierApp\TierApp.Data\obj\Debug\netstandard2.0\TierApp.Data.AssemblyInfoInputs.cache
+C:\Users\Dell-07\Documents\Dosyalarim\Projects\Examples\TierApp\TierApp.Data\obj\Debug\netstandard2.0\TierApp.Data.AssemblyInfo.cs
+C:\Users\Dell-07\Documents\Dosyalarim\Projects\Examples\TierApp\TierApp.Data\bin\Debug\netstandard2.0\TierApp.Core.dll
+C:\Users\Dell-07\Documents\Dosyalarim\Projects\Examples\TierApp\TierApp.Data\bin\Debug\netstandard2.0\TierApp.Entity.dll
+C:\Users\Dell-07\Documents\Dosyalarim\Projects\Examples\TierApp\TierApp.Data\bin\Debug\netstandard2.0\TierApp.Data.deps.json
+C:\Users\Dell-07\Documents\Dosyalarim\Projects\Examples\TierApp\TierApp.Data\bin\Debug\netstandard2.0\TierApp.Data.dll
+C:\Users\Dell-07\Documents\Dosyalarim\Projects\Examples\TierApp\TierApp.Data\bin\Debug\netstandard2.0\TierApp.Data.pdb
+C:\Users\Dell-07\Documents\Dosyalarim\Projects\Examples\TierApp\TierApp.Data\bin\Debug\netstandard2.0\TierApp.Entity.pdb
+C:\Users\Dell-07\Documents\Dosyalarim\Projects\Examples\TierApp\TierApp.Data\bin\Debug\netstandard2.0\TierApp.Core.pdb
+C:\Users\Dell-07\Documents\Dosyalarim\Projects\Examples\TierApp\TierApp.Data\obj\Debug\netstandard2.0\TierApp.Data.csproj.CopyComplete
+C:\Users\Dell-07\Documents\Dosyalarim\Projects\Examples\TierApp\TierApp.Data\obj\Debug\netstandard2.0\TierApp.Data.dll
+C:\Users\Dell-07\Documents\Dosyalarim\Projects\Examples\TierApp\TierApp.Data\obj\Debug\netstandard2.0\TierApp.Data.pdb

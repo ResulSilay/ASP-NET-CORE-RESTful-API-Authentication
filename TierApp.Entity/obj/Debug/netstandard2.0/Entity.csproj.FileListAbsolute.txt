@@ -1,0 +1,5 @@
+C:\Users\Dell-07\Documents\Dosyalarim\Projects\Examples\TierApp\Entity\bin\Debug\netstandard2.0\Entity.deps.json
+C:\Users\Dell-07\Documents\Dosyalarim\Projects\Examples\TierApp\Entity\bin\Debug\netstandard2.0\Entity.dll
+C:\Users\Dell-07\Documents\Dosyalarim\Projects\Examples\TierApp\Entity\obj\Debug\netstandard2.0\Entity.csprojAssemblyReference.cache
+C:\Users\Dell-07\Documents\Dosyalarim\Projects\Examples\TierApp\Entity\obj\Debug\netstandard2.0\Entity.AssemblyInfoInputs.cache
+C:\Users\Dell-07\Documents\Dosyalarim\Projects\Examples\TierApp\Entity\obj\Debug\netstandard2.0\Entity.AssemblyInfo.cs
